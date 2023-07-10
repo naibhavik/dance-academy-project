@@ -1,2 +1,2 @@
-# dance-academy-project
+# Dance-Academy-Project
 Full Stack Project
